@@ -1,0 +1,5 @@
+.history/
+node_modules/
+_results_/
+.env
+scripts/*.js
